@@ -2,6 +2,10 @@
 
 An advanced website crawler tool that maps and discovers website structure and hidden paths. The tool supports both standard and aggressive crawling modes.
 
+# words.txt
+- Feel free to update words.txt to anything you'd like. This is just a standard document.
+
+
 ## Features
 
 - Standard crawling mode for basic site mapping
